@@ -1,6 +1,8 @@
 # SJlock-Ransomware
 This ransomware is built with a super encryption mechanism and can encrypt all types of files in a system or network with a single click. 
 
+IT IS CROSS-PLATFORM, WORKS ON (WINDOWS | LINUX\UNIX | MACOS)
+
 SJlock Ransomware locks all the file type on the target computer and then display a GUI (Graphical User Interface) with details on how to pay the ransom, give a time limit for the ransom to be paid, leave a message on how the ransom should be paid, display a BTC (Bitcoin) address where the ransom should be paid and then the equivalent to US Dollar, and then finally leave a threatning message to the target if the time limit has passed.
 
 SJLOCK Ransomware will send a decryption key back to an email address which the software will request you to put. 
